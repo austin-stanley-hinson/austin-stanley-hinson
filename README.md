@@ -1,4 +1,4 @@
-# Hey, I’m Austin!
+# Hey there, I'm Austin!
 
 I’m a Computer Science and Applied Mathematics student at Colby College, building software, AI, and systems projects that connect research, infrastructure, and real-world products.
 
